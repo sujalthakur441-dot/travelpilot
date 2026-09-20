@@ -1,0 +1,9 @@
+# ignore secrets and local junk
+.env
+venv/
+env/
+__pycache__/
+*.pyc
+.DS_Store
+*.egg-info/
+.vscode/

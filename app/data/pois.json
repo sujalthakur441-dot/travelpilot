@@ -1,0 +1,129 @@
+{
+  "Goa": {
+    "beach": [
+      {
+        "id": "baga_beach",
+        "name": "Baga Beach",
+        "category": "beach",
+        "popularity": 0.95,
+        "crowd_level": "High",
+        "cost": 0,
+        "duration_min": 120,
+        "opening_hours": "00:00-24:00",
+        "lat": 15.5553,
+        "lng": 73.7517,
+        "tags": ["popular", "nightlife"]
+      },
+      {
+        "id": "ashwem_beach",
+        "name": "Ashwem Beach",
+        "category": "beach",
+        "popularity": 0.55,
+        "crowd_level": "Low",
+        "cost": 0,
+        "duration_min": 120,
+        "opening_hours": "00:00-24:00",
+        "lat": 15.6739,
+        "lng": 73.7185,
+        "tags": ["offbeat", "quiet"]
+      },
+      {
+        "id": "morjim_beach",
+        "name": "Morjim Beach",
+        "category": "beach",
+        "popularity": 0.6,
+        "crowd_level": "Medium",
+        "cost": 0,
+        "duration_min": 120,
+        "opening_hours": "00:00-24:00",
+        "lat": 15.6294,
+        "lng": 73.7377,
+        "tags": ["budget", "turtle-nesting"]
+      }
+    ],
+    "temple": [
+      {
+        "id": "shanta_durga_temple",
+        "name": "Shanta Durga Temple",
+        "category": "temple",
+        "popularity": 0.8,
+        "crowd_level": "Medium",
+        "cost": 0,
+        "duration_min": 60,
+        "opening_hours": "06:00-20:00",
+        "lat": 15.4167,
+        "lng": 74.0167,
+        "tags": ["popular", "heritage"]
+      },
+      {
+        "id": "mahalasa_temple",
+        "name": "Mahalasa Narayani Temple",
+        "category": "temple",
+        "popularity": 0.4,
+        "crowd_level": "Low",
+        "cost": 0,
+        "duration_min": 45,
+        "opening_hours": "06:00-20:00",
+        "lat": 15.4523,
+        "lng": 74.0654,
+        "tags": ["offbeat", "heritage"]
+      }
+    ],
+    "market": [
+      {
+        "id": "anjuna_flea_market",
+        "name": "Anjuna Flea Market",
+        "category": "market",
+        "popularity": 0.9,
+        "crowd_level": "High",
+        "cost": 300,
+        "duration_min": 90,
+        "opening_hours": "08:00-19:00",
+        "lat": 15.5936,
+        "lng": 73.7405,
+        "tags": ["popular", "shopping"]
+      },
+      {
+        "id": "mapusa_market",
+        "name": "Mapusa Municipal Market",
+        "category": "market",
+        "popularity": 0.45,
+        "crowd_level": "Low",
+        "cost": 150,
+        "duration_min": 60,
+        "opening_hours": "07:00-18:00",
+        "lat": 15.5937,
+        "lng": 73.8142,
+        "tags": ["budget", "local"]
+      }
+    ],
+    "fort": [
+      {
+        "id": "aguada_fort",
+        "name": "Fort Aguada",
+        "category": "fort",
+        "popularity": 0.85,
+        "crowd_level": "High",
+        "cost": 50,
+        "duration_min": 90,
+        "opening_hours": "08:30-18:00",
+        "lat": 15.4925,
+        "lng": 73.7738,
+        "tags": ["popular", "heritage"]
+      },
+      {
+        "id": "chapora_fort",
+        "name": "Chapora Fort",
+        "category": "fort",
+        "popularity": 0.5,
+        "crowd_level": "Low",
+        "cost": 0,
+        "duration_min": 60,
+        "opening_hours": "00:00-24:00",
+        "lat": 15.6062,
+        "lng": 73.7362,
+        "tags": ["offbeat", "sunset-view"]
+      }
+    ]
+  }
+}
